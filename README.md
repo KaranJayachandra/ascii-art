@@ -8,4 +8,8 @@ But this can be replaced with anything the user deems fit and the input and outp
 
 A simple explanation is shown below.
 
-![ASCII Art](/images/ascii.png)
+![ASCII](/images/ascii.png)
+
+An example of the input and output is shown here.
+
+![ASCII Art](/images/output.png)
